@@ -4,6 +4,7 @@
 
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form {
+  position: fixed;
   width:100%; /* IE */
   -webkit-box-sizing: max-width: 100%; /* FF, Safari, Chrome */
 }
