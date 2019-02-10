@@ -28,14 +28,7 @@
   margin-bottom: 2%
 }
 
-.row:after {
-   content: ".";
-   display: block;
-   clear: both;
-   visibility: hidden;
-   height: 0;
-   line-height: 0;
- }
+
 
 .featured-brand {
   float: left;
@@ -46,11 +39,6 @@
   float: left;
   width: 32%;
   margin-left: 0%;
-}
-
-.col-2 {
-  float: left;
-  width: 32%;
 }
 
 [class*="col-"]:first-child {
