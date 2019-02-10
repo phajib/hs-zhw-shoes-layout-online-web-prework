@@ -37,14 +37,9 @@
    line-height: 0;
  }
 
-.white-box {
-  background: white;
-}
-
 .featured-brand {
   float: left;
   width: 66%;
-  /*margin: 0 5px 10px 0;*/
 }
 
 .archive {
