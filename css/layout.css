@@ -57,7 +57,6 @@
 .col-2 {
   float: left;
   width: 32%;
-  /*margin: 10px 17px 0 17px;*/
 }
 
 [class*="col-"]:first-child {
