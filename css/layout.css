@@ -47,7 +47,7 @@
 .col-1 {
   float: left;
   width: 32%;
-  margin: 2%;
+  margin-left: 0%;
 }
 
 .col-2 {
