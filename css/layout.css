@@ -60,6 +60,10 @@
   /*margin: 10px 17px 0 17px;*/
 }
 
+[class*="col-"]:first-child {
+    margin-left: 0;
+  }
+
 [class*="col-"] {
   margin-left: 2%;
 }
