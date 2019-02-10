@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+.row {
+  clear: both;
+  margin-bottom: 2%
+}
 
 .white-box {
   background: white;
