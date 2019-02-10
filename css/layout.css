@@ -41,7 +41,7 @@
 .archive {
   float: left;
   width: 32%;
-  margin: 0 0 10px 10px;
+  /*margin: 0 0 10px 10px;*/
 }
 
 .col-1 {
